@@ -66,8 +66,8 @@ Installation:
 
         ~/.local/share/gnome-shell/extensions/hide-app-menu@waltershobby.net
 
-        Then, logout of the current session.  After logged back in, use the
-        GNOME Tweak to activate the extension.
+        Then, logout and log back in.  After that, you can use the GNOME Tweak
+        tool to activate the extension.
 
     Package Maintainers, Developers, and Administrators:
 
