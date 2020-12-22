@@ -74,7 +74,7 @@ Installation:
         Depending on your Linux distribution, placing all of the files into a
         directory such as /usr/share/gnome-shell/extensions should make the
         extension available to all users on the system.  If you require the
-        files to be placed in administratively controlled location that does
+        files to be placed in an administratively controlled location that does
         not conflict with preinstalled extensions; then, typically the
         directory to use would be /usr/local/share/gnome-shell/extensions.
 
