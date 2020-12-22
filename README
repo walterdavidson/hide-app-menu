@@ -1,0 +1,87 @@
+README (hide-app-menu project)
+Copyright 2020 Walter Davidson (https://www.waltershobby.net)
+SPDX-License-Identifier: Apache-2.0
+SPDX-URL: http://www.apache.org/licenses/LICENSE-2.0
+
+Description:
+
+    'Hide app menu' is a lightweight GNOME (Linux Desktop) Extension that hides
+    the application menu on the panel (top bar).  The GNOME developers have
+    moved all of the functionality from the application menu to the main window
+    of an application which is great because it consolidates features in one
+    location, but they have elected to leave a nearly empty and useless
+    application menu on the panel and jettisoned the option to remove it via
+    the GNOME Tweaks tool.  Consequently, to restore the typically clean and
+    uncluttered appearance of the GNOME Desktop Environment, an extension such
+    as this one is required.
+
+Contributing:
+
+    Suggestions and bug reports from users, package maintainers,
+    administrators, translators, and etc. can be posted at:
+
+        https://github.com/walterdavidson/hide-app-menu/issues
+
+    If posting a bug report, please include the following information:
+
+        Linux distribution
+        Linux distribution version
+        GNOME version
+        Installation method (extensions.gnome.org or manually)
+        Description of the problem
+
+    If posting a suggestion, please review the current description of the
+    project to insure the suggestion is in keeping with goal of the project as
+    a whole.  If the suggestion is a code change, please also review all
+    documentation and existing code.  In either case, open an issue with the
+    link above.  Please note that a submitted issue is required prior to any
+    software development either by the current maintainer or any contributor.
+
+    During any communications with this project, only cordial and amenable
+    posts will be accepted.  Certainly, you are free to present your case for
+    why some issue should be resolved or why a change should occur, but as soon
+    as it starts becoming argumentative, hateful, or tangential including
+    political and etc. the outstanding issue will be closed and will not be
+    considered any further.  If this behavior continues, other actions will be
+    taken as necessary, such as being banned from working with the project.
+    All decisions are final and are at the sole discretion of the current
+    maintainer of this project.
+
+    Keep in mind that this project was developed on a volunteer basis, and it
+    is currently maintained by only one person.  Nonetheless, all bug reports
+    and suggestions will be reviewed hopefully weekly, but due to scheduling
+    issues it might take a little time for a response.  I appreciate your
+    interest in the project and your patience, and I certainly hope that you
+    have enjoyed using this extension.
+
+Installation:
+
+    Users:
+
+        It is recommended to obtain this extension from extensions.gnome.org
+        which typically uses an add-on to your FireFox browser.  If you
+        wish to install this manually, download the files from
+        https://github.com/walterdavidson/hide-app-menu and place them in the
+        the following directory:
+
+        ~/.local/share/gnome-shell/extensions/hide-app-menu@waltershobby.net
+
+        Then, logout of the current session.  After logged back in, use the
+        GNOME Tweak to activate the extension.
+
+    Package Maintainers, Developers, and Administrators:
+
+        Depending on your Linux distribution, placing all of the files into a
+        directory such as /usr/share/gnome-shell/extensions should make the
+        extension available to all users on the system.  If you require the
+        files to be placed in administratively controlled location that does
+        not conflict with preinstalled extensions; then, typically the
+        directory to use would be /usr/local/share/gnome-shell/extensions.
+
+Other useful tools:
+
+    GNOME Tweaks
+
+Maintainer:
+
+    Walter Davidson (https://www.waltershobby.net).
