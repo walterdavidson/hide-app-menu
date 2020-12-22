@@ -1,0 +1,8 @@
+{
+  "uuid": "hide-app-menu@waltershobby.net",
+  "name": "Hide app menu",
+  "description": "Remove application menu from panel",
+  "version": 1,
+  "shell-version": [ "3.38" ],
+  "url": "https://github.com/walterdavidson/hide-app-menu"
+}
